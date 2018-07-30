@@ -1,0 +1,19 @@
+{
+  "name": "@types/sinek",
+  "version": "1.0.0",
+  "description": "Type Definition for sinek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnomalistDesignLLC/Type-Sinek.git"
+  },
+  "author": "Matthew Aaron Raymer <matthew.raymer@anomalistdesign.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnomalistDesignLLC/Type-Sinek/issues"
+  },
+  "homepage": "https://github.com/AnomalistDesignLLC/Type-Sinek#readme"
+}

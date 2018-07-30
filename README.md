@@ -1,2 +1,2 @@
-# -types-sinek
-Type Definintion for sinek
+# Installation
+> `npm install --save https://github.com/AnomalistDesignLLC/Type-Sinek`
