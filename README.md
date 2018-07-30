@@ -1,2 +1,2 @@
 # Installation
-> `npm install --save https://github.com/AnomalistDesignLLC/Type-Sinek`
+> `npm install --save-dev https://github.com/AnomalistDesignLLC/Type-Sinek`
